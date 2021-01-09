@@ -1,4 +1,5 @@
 # AmongUsMods
 Mods for Among Us:
-customization
+
+[Customization](https://github.com/jloro/AmongUsMods/blob/main/Customization.md)
 private server
