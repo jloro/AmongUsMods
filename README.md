@@ -9,6 +9,6 @@ Mods for Among Us:
 
 # Dependencies
 
--Private server mod to play on private server
+* Private server mod to play on private server
 
--Bepinex installed
+* Bepinex installed
