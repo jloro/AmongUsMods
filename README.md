@@ -7,7 +7,7 @@ Mods for Among Us:
 
 private server
 
-#Dependencies
+# Dependencies
 
 -Private server mod to play on private server
 
