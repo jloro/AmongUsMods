@@ -13,7 +13,7 @@ Mods for Among Us:
 
 * Bepinex installed
 
-## Install
+## Installation
 
 1. Download in [releases](https://github.com/jloro/AmongUsMods/releases/tag/1.0) the `.dll`.
 
