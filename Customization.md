@@ -7,12 +7,11 @@ This mod has a lot of things:
 * Button to copy game code
 * Select map and impostor in lobby
 
-# Dependencies
+## Dependencies
 
 This mod need [private server](https://github.com/jloro/AmongUsMods/blob/main/Customization.md)
 
------------------------
-# Example
+## Example
 
 <img src="/Ressources/colors_visors.gif" width="500">
 
