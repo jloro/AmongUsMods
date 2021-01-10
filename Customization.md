@@ -9,7 +9,8 @@ This mod has a lot of things:
 
 ## Download
 
-[here](https://github.com/jloro/AmongUsMods/releases/tag/1.1
+[here](https://github.com/jloro/AmongUsMods/releases/tag/1.1)
+
 ## Installation
 
 [here](https://github.com/jloro/AmongUsMods/blob/main/README.md#installation)
