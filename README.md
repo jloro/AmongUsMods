@@ -11,9 +11,11 @@ Mods for Among Us:
   <img src="/Ressources/colors_visors.gif" width="300">
 
 * Roles
+
  * Vent Guy : One impostor can place a vent that connects to a random vent every time someone uses it and one crewmate can disable a vent (closest one)
 
 * Hidden Impostor
+
  * Impostors don't know their team and can kill each others
 
 ## Dependencies
