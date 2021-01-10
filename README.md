@@ -24,7 +24,7 @@ Mods for Among Us:
 
 * Impostor server
 
-* Bepinex
+* [Bepinex](https://github.com/jloro/AmongUsMods/blob/main/InstallBepInEx.md)
 
 ## Installation
 
