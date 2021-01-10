@@ -12,6 +12,8 @@ Mods for Among Us:
 
 * Roles
 
+* Hidden Impostor
+
 ## Dependencies
 
 * [Private Server](https://github.com/jloro/AmongUsMods/blob/main/PrivateServer.md)
