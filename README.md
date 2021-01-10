@@ -27,6 +27,6 @@ Mods for Among Us:
 <img src="/Ressources/rootFolder.PNG" width="500">
 <img src="/Ressources/rootFolder_bepinex.PNG" width="500">
 
-If it's good, on the main menu there should be the list of the installed plugin, like this
+If it's good, on the main menu there should be the list of the installed mods, like this
 
 <img src="/Ressources/Installed.PNG" width="300">
