@@ -7,9 +7,12 @@ This mod has a lot of things:
 * Button to copy game code
 * Select map and impostor in lobby
 
+## Download
+
+[here](https://github.com/jloro/AmongUsMods/releases/tag/1.1
 ## Installation
 
-[Installation](https://github.com/jloro/AmongUsMods/blob/main/README.md#installation)
+[here](https://github.com/jloro/AmongUsMods/blob/main/README.md#installation)
 
 ## Example
 
