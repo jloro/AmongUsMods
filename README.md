@@ -14,7 +14,9 @@ Mods for Among Us:
 
 ## Dependencies
 
-* Private server mod to play on private server with custom rpc calls
+* [Private Server](https://github.com/jloro/AmongUsMods/blob/main/PrivateServer.md)
+
+* Impostor server
 
 * Bepinex installed
 
