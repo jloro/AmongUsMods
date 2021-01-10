@@ -12,3 +12,7 @@ Mods for Among Us:
 * Private server mod to play on private server
 
 * Bepinex installed
+
+# Install
+
+Download in the mod you want and put it in bepinex/plugin/
