@@ -1,6 +1,6 @@
 # Roles
 
-* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md)
+* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#vent-guy)
 
 Roles can be selected in the game settings tab and is displayed like every other settings like that :
 
