@@ -5,6 +5,11 @@ Mods for Among Us:
 
 * [Customization](https://github.com/jloro/AmongUsMods/blob/main/Customization.md)
 
+  * new colors
+  * Possibility to change visor color
+  * etc
+  <img src="/Ressources/colors_visors.gif" width="300">
+
 * Roles
 
 ## Dependencies
