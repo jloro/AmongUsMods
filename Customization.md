@@ -14,6 +14,8 @@ This mod need [private server](https://github.com/jloro/AmongUsMods/blob/main/Cu
 -----------------------
 # Example
 
+<img src="/Ressources/colors_visors.gif" width="500">
+
 <img src="/Ressources/AllSkins.PNG" width="500">
 
 <img src="/Ressources/Copy.PNG" width="300">
