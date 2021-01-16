@@ -34,7 +34,7 @@ One crewmate and one impostors have a new button in the lower right corner of th
 
 ## Example
 
-<img src="/Ressources/GameModes/VentGuy/CrewMate.PNG" width="300">    <img src="/Ressources/GameModes/VentGuy/Impostor.PNG" width="300">   <img src="/Ressources/GameModes/VentGuy/Vent.PNG" width="300">
+<img src="/Ressources/GameModes/VentGuy/CrewMate.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/VentGuy/Impostor.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/VentGuy/Vent.PNG" width="300">
 
 --------------------
 
@@ -44,7 +44,7 @@ At the beginning of the game, one camera will be randomly disable and one crewma
 
 ## Example
 
-<img src="/Ressources/GameModes/CamGuy/Crewmate.PNG" width="300">    <img src="/Ressources/GameModes/CamGuy/NewCam.PNG" width="300">
+<img src="/Ressources/GameModes/CamGuy/Crewmate.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/CamGuy/NewCam.PNG" width="300">
 
 --------------------
 
