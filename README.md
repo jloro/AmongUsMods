@@ -10,7 +10,7 @@ Mods for Among Us:
   * etc
   <img src="/Ressources/Customization/colors_visors.gif" width="300">
 
-* [Game Modes](https://github.com/jloro/AmongUsMods/blob/main/Roles.md)
+* [Game Modes](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md)
   
   * New game modes and roles
 
