@@ -17,11 +17,11 @@ This mod has a lot of things:
 
 ## Example
 
-<img src="/Ressources/colors_visors.gif" width="500">
+<img src="/Ressources/Customization/colors_visors.gif" width="500">
 
-<img src="/Ressources/AllSkins.PNG" width="500">
+<img src="/Ressources/Customization/AllSkins.PNG" width="500">
 
-<img src="/Ressources/Copy.PNG" width="300">
+<img src="/Ressources/Customization/Copy.PNG" width="300">
 
-<img src="/Ressources/CustomSettings.PNG" width="500">
+<img src="/Ressources/Customization/CustomSettings.PNG" width="500">
 
