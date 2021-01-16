@@ -9,7 +9,7 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 # Roles 
 * [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#vent-guy)
 
-* [cam Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#cam-guy)
+* [Cam Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#cam-guy)
 
 # Game Modes
 
