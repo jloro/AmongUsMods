@@ -1,11 +1,19 @@
-# Roles
+# GameModes
 
-* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#vent-guy)
+This mod enables new games modes including roles.
 
-Roles can be selected in the game settings tab and is displayed like every other settings like that :
+All new modes can be enable in the game settings tabs in the lobby like that: 
 
 <img src="/Ressources/Roles/SelectInSettings.PNG" width="300">
 
+# Roles 
+* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#vent-guy)
+
+* [cam Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#cam-guy)
+
+# Game Modes
+
+* [Hidden Impostors](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#hidden-impostors)
 ## Download
 
 [here](https://github.com/jloro/AmongUsMods/releases)
@@ -27,4 +35,8 @@ One crewmate and one impostors have a new button in the lower right corner of th
 ## Example
 
 <img src="/Ressources/Roles/Crew.PNG" width="300">    <img src="/Ressources/Roles/Impostor.PNG" width="300">   <img src="/Ressources/Roles/NewVent.PNG" width="300">
+
+# Cam Guy
+
+# Hidden Impostors
 
