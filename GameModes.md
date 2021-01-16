@@ -44,6 +44,8 @@ At the beginning of the game, one camera will be randomly disable and one crewma
 
 ## Example
 
+<img src="/Ressources/GameModes/CamGuy/Crewmate.PNG" width="300">    <img src="/Ressources/GameModes/CamGuy/NewCam.PNG" width="300">
+
 --------------------
 
 # Hidden Impostors
