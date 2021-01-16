@@ -34,7 +34,7 @@ One crewmate and one impostors have a new button in the lower right corner of th
 
 ## Example
 
-<img src="/Ressources/Roles/Crew.PNG" width="300">    <img src="/Ressources/Roles/Impostor.PNG" width="300">   <img src="/Ressources/Roles/NewVent.PNG" width="300">
+<img src="/Ressources/GameModes/VentGuy/Crew.PNG" width="300">    <img src="/Ressources/GameModes/VentGuy/Impostor.PNG" width="300">   <img src="/Ressources/GameModes/VentGuy/NewVent.PNG" width="300">
 
 --------------------
 
