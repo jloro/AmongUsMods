@@ -24,7 +24,7 @@ Mods for Among Us:
 
 ## Installation
 
-1. Download in [releases](https://github.com/jloro/AmongUsMods/releases/tag/1.0) the `.dll`.
+1. Download in [releases](https://github.com/jloro/AmongUsMods/releases) the `.dll`.
 
 2. Put the `.dll` in BepInEx/plugins folder of your Among Us directory, it should look like this
 
