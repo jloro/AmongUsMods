@@ -4,7 +4,7 @@ This mod enables new games modes including roles.
 
 All new modes can be enable in the game settings tabs in the lobby like that: 
 
-<img src="/Ressources/Roles/SelectInSettings.PNG" width="300">
+<img src="/Ressources/GameModes/Settings.PNG" width="300">
 
 # Roles 
 * [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#vent-guy)
