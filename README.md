@@ -8,7 +8,7 @@ Mods for Among Us:
   * new colors
   * Possibility to change visor color
   * etc
-  <img src="/Ressources/colors_visors.gif" width="300">
+  <img src="/Ressources/Customization/colors_visors.gif" width="300">
 
 * [Roles](https://github.com/jloro/AmongUsMods/blob/main/Roles.md)
   
