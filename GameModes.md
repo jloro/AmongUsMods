@@ -14,6 +14,9 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 # Game Modes
 
 * [Hidden Impostors](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#hidden-impostors)
+
+* [CrewMate Vent](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#crewmate-vent)
+
 ## Download
 
 [here](https://github.com/jloro/AmongUsMods/releases)
@@ -51,3 +54,9 @@ At the beginning of the game, one camera will be randomly disable and one crewma
 # Hidden Impostors
 
 Impostors don't know their mates and can kill each others.
+
+--------------------
+
+# CrewMate Vent
+CrewMate can vent.
+
