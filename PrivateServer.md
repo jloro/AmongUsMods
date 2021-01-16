@@ -12,7 +12,7 @@ This plugin is mandatory because all the mods remove the public servers so you n
 
 4. Open it, it should be like this   
 
-<img src="/Ressources/PrivateServerConfigFile.PNG" width="300">
+<img src="/Ressources/ConfigFile.PNG" width="300">
 
 5. Edit it and write for `Name` the server'name in game, `Ip` your server's ip and for `Port` the port, if you don't know leave it by default it should be 22023
 
