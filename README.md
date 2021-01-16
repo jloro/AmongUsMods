@@ -10,13 +10,9 @@ Mods for Among Us:
   * etc
   <img src="/Ressources/Customization/colors_visors.gif" width="300">
 
-* [Roles](https://github.com/jloro/AmongUsMods/blob/main/Roles.md)
+* [Game Modes](https://github.com/jloro/AmongUsMods/blob/main/Roles.md)
   
-  * Vent Guy : One impostor can place a vent that connects to a random vent every time someone uses it and one crewmate can disable a vent (closest one)
-
-* [Hidden Impostors](https://github.com/jloro/AmongUsMods/blob/main/HiddenImpostors.md)
-
-  * Impostors don't know their team and can kill each others
+  * New game modes and roles
 
 ## Dependencies
 
