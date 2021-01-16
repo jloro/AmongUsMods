@@ -7,13 +7,13 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 <img src="/Ressources/Roles/SelectInSettings.PNG" width="300">
 
 # Roles 
-* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#vent-guy)
+* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#vent-guy)
 
-* [cam Guy](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#cam-guy)
+* [cam Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#cam-guy)
 
 # Game Modes
 
-* [Hidden Impostors](https://github.com/jloro/AmongUsMods/blob/main/Roles.md#hidden-impostors)
+* [Hidden Impostors](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#hidden-impostors)
 ## Download
 
 [here](https://github.com/jloro/AmongUsMods/releases)
