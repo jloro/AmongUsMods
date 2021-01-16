@@ -36,7 +36,16 @@ One crewmate and one impostors have a new button in the lower right corner of th
 
 <img src="/Ressources/Roles/Crew.PNG" width="300">    <img src="/Ressources/Roles/Impostor.PNG" width="300">   <img src="/Ressources/Roles/NewVent.PNG" width="300">
 
+--------------------
+
 # Cam Guy
+
+At the beginning of the game, one camera will be randomly disable and one crewmate will be able to place a new cam wherever he wants. Once he clicked the button, the camera will be placed at the next meeting.
+
+## Example
+
+--------------------
 
 # Hidden Impostors
 
+Impostors don't know their mates and can kill each others.
