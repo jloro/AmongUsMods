@@ -58,5 +58,6 @@ Impostors don't know their mates and can kill each others.
 --------------------
 
 # CrewMate Vent
-CrewMate can vent.
+
+CrewMate can vent and  impostors can kill people in vent from vent or outside.
 
