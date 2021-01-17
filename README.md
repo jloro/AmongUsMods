@@ -1,5 +1,7 @@
 # WARNING THIS IS FOR ITCH VERSION 2020.11.17
 
+THIS IS NOT FOR STEAM
+
 # AmongUsMods
 Mods for Among Us:
 
