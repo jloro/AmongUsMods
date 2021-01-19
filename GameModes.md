@@ -29,15 +29,9 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 
 # Vent Guy
 
-One crewmate and one impostors have a new button in the lower right corner of their screens.
+Impostors have a new button in the lower right corner of their screens.
 
-* Crewmate can disable a vent, when he click on the button it will disable the closest vent.
-
-* Impostor can place a new vent that every impostors can use. Every time an impostor uses it, the link is changed.
-
-## Example
-
-<img src="/Ressources/GameModes/VentGuy/CrewMate.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/VentGuy/Impostor.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/VentGuy/Vent.PNG" width="300">
+They can place a new vent that only them can use.
 
 --------------------
 
