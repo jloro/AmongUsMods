@@ -7,7 +7,6 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 <img src="/Ressources/GameModes/Settings.PNG" width="300">
 
 # Roles 
-* [Vent Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#vent-guy)
 
 * [Cam Guy](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#cam-guy)
 
@@ -16,6 +15,13 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 * [Hidden Impostors](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#hidden-impostors)
 
 * [CrewMate Vent](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#crewmate-vent)
+
+* [No Vent](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#no-vent)
+
+# Sabotage
+
+* [Confusion WIP](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#confusion)
+
 
 ## Download
 
@@ -27,7 +33,7 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 
 --------------------
 
-# Vent Guy
+# No vent
 
 Impostors have a new button in the lower right corner of their screens.
 
@@ -54,4 +60,10 @@ Impostors don't know their mates and can kill each others.
 # CrewMate Vent
 
 CrewMate can vent and  impostors can kill people in vent from vent or outside.
+
+--------------------
+
+# Confusion
+
+New sabotage confusion. When activated all players become dark with no name for x seconds.
 
