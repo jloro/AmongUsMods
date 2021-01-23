@@ -20,7 +20,7 @@ All new modes can be enable in the game settings tabs in the lobby like that:
 
 # Sabotage
 
-* [Confusion WIP](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#confusion)
+* [Confusion](https://github.com/jloro/AmongUsMods/blob/main/GameModes.md#confusion)
 
 
 ## Download
