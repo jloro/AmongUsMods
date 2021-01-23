@@ -67,3 +67,8 @@ CrewMate can vent and  impostors can kill people in vent from vent or outside.
 
 New sabotage confusion. When activated all players become dark with no name for x seconds.
 
+## Example
+
+<img src="/Ressources/GameModes/Confusion/skeld.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/Confusion/polus.PNG" width="300">&nbsp;&nbsp;&nbsp;<img src="/Ressources/GameModes/Confusion/mira.PNG" width="300">
+
+
